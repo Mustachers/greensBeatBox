@@ -33,7 +33,9 @@ class BeatBox {
 	private JButton upTempo;
 	private JButton downTempo;
 
-	private String[] instrumentNames = {"Bass Drum", "Closed Hi-Hat","Open Hi-Hat", "Acoutstic Share", "Crash 	Cymbal","Hand Clap", "High Tom", "Hi Bongo", "Maracas", "Whistle", "Low Comga", "Cowbell", "Vibraslap", 	"Low-mid Tom", "High Agogo", "Open Hi Conga"};
+	private String[] instrumentNames = {"Bass Drum", "Closed Hi-Hat","Open Hi-Hat", "Acoutstic Share", 
+			"Crash Cymbal","Hand Clap", "High Tom", "Hi Bongo", "Maracas", "Whistle", "Low Comga", 
+			"Cowbell", "Vibraslap", 	"Low-mid Tom", "High Agogo", "Open Hi Conga"};
 
 	private int[] instruments = {35, 42, 46, 38, 49, 39, 50, 60, 70, 72, 64, 56, 58, 47, 67, 63}; 
 	
