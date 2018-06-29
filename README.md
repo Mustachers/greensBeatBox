@@ -2,7 +2,7 @@
 This project comes from Head First Java,Some functions have been added, and one function has not been implemented.
 
 
-1.	A.5 buttons——start、stop、up tempo、down tempo、remove tick.
+1.	A.5 buttons——start、stop、up tempo、down tempo、remove tick.\n
 	  B.The 16 JLabel——Display the name of the instrument.
 	  C.The GUI of the 256 check box.
 2.	A.5 buttons are registered ActionListener.
